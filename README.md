@@ -1,0 +1,1 @@
+Note on Notebook Rendering: To ensure this notebook is compatible with GitHub's renderer and to avoid "Invalid Notebook" errors, all interactive metadata widgets and large binary plot data have been stripped.
